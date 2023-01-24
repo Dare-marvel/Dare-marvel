@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adwait.purao@spit.ac.in**
 
-- ⚡ Fun fact **All life is an experiment.The more you make the better.**
+- ⚡ Fun fact : **All life is an experiment.The more you make the better.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
