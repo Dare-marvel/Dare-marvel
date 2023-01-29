@@ -11,16 +11,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/puraoadwait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puraoadwait" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adwait-purao-04a4a222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwait-purao-04a4a222a" height="30" width="40" /></a>
-<a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adwait.purao.1" height="30" width="40" /></a>
-<a href="https://instagram.com/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adwaitpurao" height="30" width="40" /></a>
+<a href="https://twitter.com/puraoadwait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="puraoadwait" height="30" width="40" />&nbsp;</a>
+<a href="https://linkedin.com/in/adwait-purao-04a4a222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="adwait-purao-04a4a222a" height="30" width="40" />&nbsp;</a>
+<a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="adwait.purao.1" height="30" width="40" />&nbsp;</a>
+<a href="https://instagram.com/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao" height="30" width="40" />&nbsp;</a>
+  
 <h3 align="left">I'm also on:</h3>    
-<a href="https://medium.com/@aspurao03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aspurao03" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adwait_purao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adwait_purao" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adwait_purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adwait_purao" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/legendaryphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="legendaryphoenix" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adwaitpurao" height="30" width="40" /></a>
+<a href="https://medium.com/@aspurao03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" title="Medium" alt="@aspurao03" height="40" width="40" />&nbsp;</a>
+<a href="https://www.codechef.com/users/adwait_purao" target="blank"><img align="center" src="https://img.icons8.com/clouds/2x/codechef.png" title="CodeChef" alt="adwait_purao" height="50" width="50" />&nbsp;</a>
+<a href="https://www.hackerrank.com/adwait_purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="adwait_purao" height="30" width="40" />&nbsp;</a>
+<a href="https://www.leetcode.com/legendaryphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="legendaryphoenix" height="40" width="40" />&nbsp;</a>
+<a href="https://auth.geeksforgeeks.org/user/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" title="GeeksForGeeks" alt="adwaitpurao" height="40" width="40" />&nbsp;</a>
 </p>
 
 <h3 align="left">My Skills Set:</h3>
@@ -29,40 +30,41 @@
 <h4 align="left">Programming Languages</h4>  
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyton" alt="Python" width="40" height="40"/>&nbsp;</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; </a>
 
 <h4 align="left">Front-End</h4>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title ="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;</a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="HJavaScript" width="40" height="40"/>&nbsp; </a> 
  
 <h4 align="left">Databases:</h4>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;</a>   
 
 <h4 align="left">Version Control</h4> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title ="Git" alt="git" width="40" height="40"/>&nbsp;</a>   
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-<img  src="https://imgs.search.brave.com/T1TmncdbQgcFSsIzp5gZ4jKUgb_A0Xo6g8UNAzOiaR0/rs:fit:900:900:1/g:ce/aHR0cHM6Ly9jbGlw/Z3JvdW5kLmNvbS9p/bWFnZXMvZ2l0aHVi/LWxvZ28tcG5nLTcu/anBn" alt="github" width="40" height="40"/> </a> 
+<img  src="https://imgs.search.brave.com/T1TmncdbQgcFSsIzp5gZ4jKUgb_A0Xo6g8UNAzOiaR0/rs:fit:900:900:1/g:ce/aHR0cHM6Ly9jbGlw/Z3JvdW5kLmNvbS9p/bWFnZXMvZ2l0aHVi/LWxvZ28tcG5nLTcu/anBn" title ="Github" alt="github" width="40" height="40"/>&nbsp;</a> 
   
 <h4 align="left">Presentation</h4> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title ="Figma" alt="figma" width="40" height="40"/>&nbsp;</a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" alt="canva" width="40" height="40"/> </a> 
+<img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" title ="Canva" alt="canva" width="40" height="40"/>&nbsp;</a> 
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-<img  src="https://imgs.search.brave.com/Q19-aEJ8Y6HeqYPyWX8HkTRtrxJ8ewVqDKbg16-0fvQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/bG9nb2x5bnguY29t/L2ltYWdlcy9sb2dv/bHlueC83Yi83YjZk/ZDUzZWMwM2M4ZDFm/OTFiYjVlZTE5YzAw/Y2RhNi5wbmc" alt="msoffice" width="40" height="40"/> </a> 
+<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQ5gLM0Sa8QelLYb1kVWDz5A1Ee1qSH3qfg&usqp=CAU" title ="MSOffice" alt="msoffice" width="40" height="40"/>&nbsp;</a> 
 
-
-
+<h4 align="left">IDE'S</h4> 
+<a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter" width="40" height="40"/>&nbsp;</a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dare-marvel&show_icons=true&locale=en&layout=compact" alt="dare-marvel" /></p>
