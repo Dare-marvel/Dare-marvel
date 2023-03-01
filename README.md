@@ -78,3 +78,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&show_icons=true&locale=en" alt="dare-marvel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dare-marvel&" alt="dare-marvel" /></p>
+![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
