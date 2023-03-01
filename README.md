@@ -73,9 +73,12 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;</a>
 </p>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dare-marvel&show_icons=true&locale=en&layout=compact" alt="dare-marvel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&show_icons=true&locale=en" alt="dare-marvel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dare-marvel&" alt="dare-marvel" /></p>
+
 ![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
+</div>
