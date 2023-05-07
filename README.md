@@ -23,7 +23,7 @@
 
 
 <h3 align="left">I'm also on:</h3>    
-<a href="https://medium.com/@aspurao03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" title="Medium" alt="@aspurao03" height="40" width="40" />&nbsp;</a>
+<a href="https://medium.com/@adwait.purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" title="Medium" alt="@aspurao03" height="40" width="40" />&nbsp;</a>
 <a href="https://www.codechef.com/users/adwait_purao" target="blank"><img align="center" src="https://img.icons8.com/clouds/2x/codechef.png" title="CodeChef" alt="adwait_purao" height="50" width="50" />&nbsp;</a>
 <a href="https://www.hackerrank.com/adwait_purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="adwait_purao" height="30" width="40" />&nbsp;</a>
 <a href="https://www.leetcode.com/legendaryphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="legendaryphoenix" height="40" width="40" />&nbsp;</a>
