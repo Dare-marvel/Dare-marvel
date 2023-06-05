@@ -78,9 +78,9 @@
 </p>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dare-marvel&show_icons=true&locale=en&layout=compact" alt="dare-marvel" /></p>
+<p><img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dare-marvel&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&show_icons=true&locale=en" alt="dare-marvel" /></p>
+<p><img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dare-marvel&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=github-dark-blue&hide_border=true" alt="Adwait Purao readme streak stats"/></p>  
   
