@@ -1,6 +1,17 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/dare-marvel/dare-marvel"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/dare-marvel/dare-marvel/graphs/contributors"><img src="https://img.shields.io/github/contributors/dare-marvel/dare-marvel?color=blue"></a>
+    <a href="https://github.com/dare-marvel/dare-marvel/stargazers"><img src="https://img.shields.io/github/stars/dare-marvel/dare-marvel.svg?logo=github"></a>
+    <a href="https://github.com/dare-marvel/dare-marvel/network/members"><img src="https://img.shields.io/github/forks/dare-marvel/dare-marvel.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=dare-marvel.dare-marvel" alt="visitors"/>   
+</p>
+
+
 <h1> Hello Fellow < Developers/ >! I am Adwait Purao<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
