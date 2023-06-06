@@ -115,16 +115,20 @@
 <p><img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dare-marvel&langs_count=6&layout=compact&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117"/></p>
 
 <p><img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dare-marvel&show_icons=true&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/></p>
-
-  <h2> Summary of my Github </h2>
-<p align="left"> <img src="https://profile-summary-for-github.com/user/dare-marvel" alt="Adwait's Profile Summary" /></p>
-  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=github-dark-blue&hide_border=true" alt="Adwait Purao readme streak stats"/></p>  
   
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  
+<h2> Summary of my Github </h2>
+[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/dare-marvel/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/dare-marvel/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/dare-marvel/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/dare-marvel/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/dare-marvel/github-profile-summary-cards)
+
   
   
 ![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
