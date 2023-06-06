@@ -127,3 +127,4 @@
   
 ![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
 </div>
+![](Images&GIFs/PageEnd.svg)
