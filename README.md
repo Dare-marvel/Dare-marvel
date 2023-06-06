@@ -43,8 +43,8 @@
 | Video Editiing | [![My Skills](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)  |
 | Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev) |
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
-| Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />| 
-| IDE's | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> |
+| Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  | 
+| IDE's | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height=45px /> |
 
 <h2> Connect with me <img align="center" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/adwait-p-04a4a222a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -130,7 +130,7 @@
 
 <p><img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dare-marvel&show_icons=true&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/></p>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=github-dark-blue&hide_border=true" alt="Adwait Purao readme streak stats"/></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats"/></p>  
   
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
