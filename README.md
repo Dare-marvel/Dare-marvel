@@ -38,12 +38,12 @@
 | Languages  | [![My Skills](https://skillicons.dev/icons?i=c,python,java)](https://skillicons.dev)  |
 | Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  |
 | Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,django,flask)](https://skillicons.dev)  |
-| Data Science  | [![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib)](https://skillicons.dev)  |
+| Data Science  | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />|
 | AI  | [![My Skills](https://skillicons.dev/icons?i=sk-learn)](https://skillicons.dev)  |
 | Video Editiing | [![My Skills](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)  |
 | Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev) |
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
-| Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  | 
+| Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  <img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height=45px /> | 
 | IDE's | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height=45px /> |
 
 <h2> Connect with me <img align="center" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
@@ -80,49 +80,6 @@
 <a href="https://www.hackerrank.com/adwait_purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="adwait_purao" height="30" width="40" />&nbsp;</a>
 <a href="https://www.leetcode.com/legendaryphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="legendaryphoenix" height="40" width="40" />&nbsp;</a>
 <a href="https://auth.geeksforgeeks.org/user/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" title="GeeksForGeeks" alt="adwaitpurao" height="40" width="40" />&nbsp;</a>
-</p>
-
-<h3 align="left">My Skills Set:</h3>
-<p align="left">
-  
-<h4 align="left">Programming Languages</h4>  
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyton" alt="Python" width="40" height="40"/>&nbsp;</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; </a>
-
-<h4 align="left">Front-End</h4>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title ="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;</a> 
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="HJavaScript" width="40" height="40"/>&nbsp; </a> 
- 
-<h4 align="left">Databases:</h4>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;</a>   
-
-<h4 align="left">Version Control</h4> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title ="Git" alt="git" width="40" height="40"/>&nbsp;</a>   
-<a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-<img  src="https://imgs.search.brave.com/T1TmncdbQgcFSsIzp5gZ4jKUgb_A0Xo6g8UNAzOiaR0/rs:fit:900:900:1/g:ce/aHR0cHM6Ly9jbGlw/Z3JvdW5kLmNvbS9p/bWFnZXMvZ2l0aHVi/LWxvZ28tcG5nLTcu/anBn" title ="Github" alt="github" width="40" height="40"/>&nbsp;</a> 
-  
-<h4 align="left">Presentation</h4> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title ="Figma" alt="figma" width="40" height="40"/>&nbsp;</a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" title ="Canva" alt="canva" width="40" height="40"/>&nbsp;</a> 
-<a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
-<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQ5gLM0Sa8QelLYb1kVWDz5A1Ee1qSH3qfg&usqp=CAU" title ="MSOffice" alt="msoffice" width="40" height="40"/>&nbsp;</a> 
-
-<h4 align="left">IDE'S</h4> 
-<a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter" width="40" height="40"/>&nbsp;</a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;</a>
 </p>
 
 <div>
