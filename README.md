@@ -1,9 +1,6 @@
+<!--   Welcome-img -->
 ![](Images&GIFs/PageStart.svg)
 
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
-    
-</div>
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/dare-marvel/dare-marvel"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -14,9 +11,11 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=dare-marvel.dare-marvel" alt="visitors"/>   
 </p>
 
+<!--   my-header-img -->
+![](Images&GIFs/header.png)
 
-<h1> Hello Fellow < Developers/ >! I am Adwait Purao<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;+Welcome+to+My+Profile!;2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Python+enthusiast)](https://git.io/typing-svg)
 
 <h2> About Me <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px' ></h2>
 
@@ -34,6 +33,19 @@
   
 <h2> Skills <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
   
+|Domain | Knowledge|
+| ------------- | ------------- |
+| Languages  | [![My Skills](https://skillicons.dev/icons?i=c,python,java)](https://skillicons.dev)  |
+| Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  |
+| Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,django,flask)](https://skillicons.dev)  |
+| Data Science  | [![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib)](https://skillicons.dev)  |
+| AI  | [![My Skills](https://skillicons.dev/icons?i=sk-learn)](https://skillicons.dev)  |
+| Video Editiing | [![My Skills](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)  |
+| Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev) |
+| Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
+| Presentation |  [![My Skills](https://skillicons.dev/icons?i=figma,canva,msoffice)](https://skillicons.dev) |
+| IDE's | [![My Skills](https://skillicons.dev/icons?i=vscode,idea,jupyter,pycharm)](https://skillicons.dev)  |
+
 <h2> Connect with me <img align="center" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/adwait-p-04a4a222a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/puraoadwait'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
