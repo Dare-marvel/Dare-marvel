@@ -14,9 +14,16 @@
 <!--   my-header-img -->
 ![](Images&GIFs/header.png)
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;+Welcome+to+My+Profile!;2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Python+enthusiast)](https://git.io/typing-svg)
+<!--   my-ticker -->
+<p align="center" >
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;+Welcome+to+My+Profile!;2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Python+enthusiast" alt="Adwait's tinkering text" /></a>
+</p>
+    
+<!--   Profile views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dare-marvel&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="dare-marvel" /> </p>
 
+<!--  About me -->
+<hr/>
 <h1> About Me <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px' ></h1>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
@@ -30,10 +37,22 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
   
+- 📫 How to reach me **adwait.purao@spit.ac.in**
+
+- ⚡ Fun fact : **All life is an experiment.The more you make the better.**
+
+<!--   My Trophies -->  
+<hr/>
+<h2 align="center" >My Trophies</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's Profile trophies" /></a> </p>      
+</p>
+
+
+<!--   Skills -->  
+<hr/>
+<h1> Skills <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h1>
   
-<h2> Skills <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-  
-|Domain | Knowledge|
+|Domain | Techstack|
 | ------------- | ------------- |
 | Languages  | [![My Skills](https://skillicons.dev/icons?i=c,python,java)](https://skillicons.dev)  |
 | Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  |
@@ -46,7 +65,9 @@
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
 | Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  <img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height=45px /> | 
 | IDE's | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height=45px /> |
+<hr/>
 
+<!--   Social-media-presence -->  
 <h2> Connect with me <img align="center" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/adwait-p-04a4a222a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/puraoadwait'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
@@ -54,49 +75,44 @@
 <a href = 'https://www.github.com/dare-marvel'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="adwait.purao.1" width="32px" />&nbsp;</a>
 <a href="https://instagram.com/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao"  width="32px" />&nbsp;</a>
-  
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-[![Adwait's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dare-marvel&theme=dracula)](https://github.com/dare-marvel/github-readme-activity-graph)
-
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
-
-[![Adwait's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=legendaryphoenix&theme=dark)](https://github.com/legendaryphoenix/leetcode-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's Profile trophies" /></a> </p>
-
-[![Adwait Purao Medium](https://github-readme-medium.vercel.app/?username=adwait.purao)](https://medium.com/@adwait.purao)
-
-<img align="right" alt="coding" width=400 src="https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/200w.webp?cid=ecf05e47trvmi0z0x8dki9upbwgk4mhyyjeyiphnsaes543z&rid=200w.webp&ct=g">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dare-marvel&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="dare-marvel" /> </p>
-
-- 📫 How to reach me **adwait.purao@spit.ac.in**
-
-- ⚡ Fun fact : **All life is an experiment.The more you make the better.**
-
-
-<h3 align="left">Coding platforms:</h3>    
-<a href="https://medium.com/@adwait.purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" title="Medium" alt="@aspurao03" height="40" width="40" />&nbsp;</a>
+<hr/>
+<!--   Coding Platforms on which I'm present --> 
+<h2 align="left">Coding platforms:</h2>    
 <a href="https://www.codechef.com/users/adwait_purao" target="blank"><img align="center" src="https://img.icons8.com/clouds/2x/codechef.png" title="CodeChef" alt="adwait_purao" height="50" width="50" />&nbsp;</a>
 <a href="https://www.hackerrank.com/adwait_purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="adwait_purao" height="30" width="40" />&nbsp;</a>
 <a href="https://www.leetcode.com/legendaryphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="legendaryphoenix" height="40" width="40" />&nbsp;</a>
 <a href="https://auth.geeksforgeeks.org/user/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" title="GeeksForGeeks" alt="adwaitpurao" height="40" width="40" />&nbsp;</a>
-</p>
+<hr/>
+
+<!--   Leetcode and medium stats -->
+|Leetcode Stats | Medium Stats |
+| ------------- | ------------- |
+| <a href = 'https://github.com/legendaryphoenix/leetcode-stats'> <img  align= 'left' src="https://leetcode-stats-six.vercel.app/?username=legendaryphoenix&theme=dark"/></a> | <a href = 'https://medium.com/@adwait.purao'> <img  align= 'right' src="https://github-readme-medium.vercel.app/?username=adwait.purao"/></a> |
 
 <div>
-<p><img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dare-marvel&langs_count=6&layout=compact&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117"/></p>
 
-<p><img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dare-marvel&show_icons=true&theme=radical&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/></p>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats"/></p>  
-  
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+<!--   GitHub stats graph -->
+<hr/>   
+<h1> My Github Stats 📈: </h1>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+[![Adwait's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dare-marvel&theme=dracula)](https://github.com/dare-marvel/github-readme-activity-graph)    
+    
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Adwait's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dare-marvel&theme=radical&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
   
-  
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats"/>
+    
+<hr>
+<!--   Programming Humor and Real time moon -->     
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'> along with the Moon Today</h2>
+
+| Joke | Moon |
+| ------------- | ------------- |      
+| <img align="left" src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes card" /> | <a href="https://moon-svg.minung.dev"><img align="center" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="Real time moon" /></a> |
+| ------------- | ------------- |    
+    
+<!--   Snake eating contributions -->      
+## Watch the snake eat my contributions  
 ![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
