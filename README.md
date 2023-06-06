@@ -38,9 +38,10 @@
 | Languages  | [![My Skills](https://skillicons.dev/icons?i=c,python,java)](https://skillicons.dev)  |
 | Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  |
 | Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,django,flask)](https://skillicons.dev)  |
-| Data Science  | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />|
-| AI  | [![My Skills](https://skillicons.dev/icons?i=sk-learn)](https://skillicons.dev)  |
-| Video Editiing | [![My Skills](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)  |
+| Data Science  | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height=45px />  <img src="Icons/Matplotlib_icon.svg" height=45px />|
+| Artificial Intelligence  | <img src="Icons/Scikit_learn_logo_small.svg" height=45px />  |
+| Operating Systems | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height=45px /> |
+| Video Editiing | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> |
 | Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev) |
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
 | Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  <img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height=45px /> | 
@@ -54,7 +55,9 @@
 <a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="adwait.purao.1" width="32px" />&nbsp;</a>
 <a href="https://instagram.com/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao"  width="32px" />&nbsp;</a>
   
-  
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
 [![Adwait's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dare-marvel&theme=dracula)](https://github.com/dare-marvel/github-readme-activity-graph)
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
