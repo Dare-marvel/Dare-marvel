@@ -122,7 +122,9 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=github-dark-blue&hide_border=true" alt="Adwait Purao readme streak stats"/></p>  
   
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
   
   
 ![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
