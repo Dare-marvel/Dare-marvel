@@ -110,14 +110,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
   
-<h2> Summary of my Github </h2>
-[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/dare-marvel/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/dare-marvel/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/dare-marvel/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/dare-marvel/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/dare-marvel/github-profile-summary-cards-example/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/dare-marvel/github-profile-summary-cards)
-
-  
   
 ![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
 </div>
