@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adwait Purao</h1>
 <h3 align="center">Sophomore at Sardar Patel Institute of Technology</h3>
 
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+
 [![Adwait's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=legendaryphoenix&theme=dark)](https://github.com/legendaryphoenix/leetcode-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's Profile trophies" /></a> </p>
