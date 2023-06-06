@@ -47,20 +47,8 @@
 
 - ⚡ Fun fact : **All life is an experiment.The more you make the better.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/puraoadwait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="puraoadwait" height="30" width="40" />&nbsp;</a>
-<a href="https://linkedin.com/in/adwait-p-04a4a222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="adwait-p-04a4a222a" height="30" width="40" />&nbsp;</a>
-<a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="adwait.purao.1" height="30" width="40" />&nbsp;</a>
-<a href="https://instagram.com/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao" height="30" width="40" />&nbsp;</a>
-  
-<h3 align="left">Education</h3>
-<a href="https://ves.ac.in/svhs/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/e/e8/Vesitlog-transparent.png" title="SSC" alt="Swami Vivekanand High School" height="30" width="40" />&nbsp;</a>Swami Vivekanand High School'19<br></br>
-<a href="http://www.ruparel.edu/" target="blank"><img align="center" src="https://bookuradmission.com/college_logo/D.G.%20Ruparel%20College%20of%20Arts,%20Commerce%20&%20Science%20(DGRASC)_logo210922090339.jpg" title="HSC" alt="D.G. Ruparel" height="30" width="40" />&nbsp;</a>D.G.Ruparel College of Arts,Science and Commerce'19<br></br>
-<a href="https://www.spit.ac.in/" target="blank"><img align="center" src="https://www.spit.ac.in/wp-content/themes/spit-main/images/SPIT_logo.png" title="B.Tech CE" alt="S.P.I.T" height="30" width="40" />&nbsp;</a>Sardar Patel Institute of Technology'25<br></br>
 
-
-<h3 align="left">I'm also on:</h3>    
+<h3 align="left">Coding platforms:</h3>    
 <a href="https://medium.com/@adwait.purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" title="Medium" alt="@aspurao03" height="40" width="40" />&nbsp;</a>
 <a href="https://www.codechef.com/users/adwait_purao" target="blank"><img align="center" src="https://img.icons8.com/clouds/2x/codechef.png" title="CodeChef" alt="adwait_purao" height="50" width="50" />&nbsp;</a>
 <a href="https://www.hackerrank.com/adwait_purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="adwait_purao" height="30" width="40" />&nbsp;</a>
