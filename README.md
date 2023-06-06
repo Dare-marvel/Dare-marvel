@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adwait Purao</h1>
 <h3 align="center">Sophomore at Sardar Patel Institute of Technology</h3>
 
+[![Adwait's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=legendaryphoenix&theme=dark)](https://github.com/legendaryphoenix/leetcode-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's Profile trophies" /></a> </p>
 
@@ -83,7 +84,14 @@
 
 <p><img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dare-marvel&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/></p>
 
+  <h2> Summary of my Github </h2>
+<p align="left"> <img src="https://profile-summary-for-github.com/user/dare-marvel" alt="Adwait's Profile Summary" /></p>
+  
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=github-dark-blue&hide_border=true" alt="Adwait Purao readme streak stats"/></p>  
+  
+
+  
   
 ![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
 </div>
