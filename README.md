@@ -4,10 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's Profile trophies" /></a> </p>
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=adwait.purao)](https://medium.com/@adwait.purao)
 
 <img align="right" alt="coding" width=400 src="https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/200w.webp?cid=ecf05e47trvmi0z0x8dki9upbwgk4mhyyjeyiphnsaes543z&rid=200w.webp&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dare-marvel&label=Profile%20views&color=0e75b6&style=flat" alt="dare-marvel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dare-marvel&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="dare-marvel" /> </p>
 
 - 📫 How to reach me **adwait.purao@spit.ac.in**
 
