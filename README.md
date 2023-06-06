@@ -43,8 +43,8 @@
 | Video Editiing | [![My Skills](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)  |
 | Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev) |
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
-| Presentation |  [![My Skills](https://skillicons.dev/icons?i=figma,canva,msoffice)](https://skillicons.dev) |
-| IDE's | [![My Skills](https://skillicons.dev/icons?i=vscode,idea,jupyter,pycharm)](https://skillicons.dev)  |
+| Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />| 
+| IDE's | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> |
 
 <h2> Connect with me <img align="center" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/adwait-p-04a4a222a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
