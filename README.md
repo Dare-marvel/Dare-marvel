@@ -83,7 +83,7 @@
 <a href="https://www.hackerrank.com/adwait_purao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="adwait_purao" height="30" width="40" />&nbsp;</a>
 <a href="https://www.leetcode.com/legendaryphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="legendaryphoenix" height="40" width="40" />&nbsp;</a>
 <a href="https://auth.geeksforgeeks.org/user/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" title="GeeksForGeeks" alt="gfg profile" height="40" width="40" />&nbsp;</a>
-<a href="https://codeforces.com/profile/HackerAdwait" target="blank"><img align="center" src="Icons/code-forces.png" title="Codeforces" alt="Codeforces profile" height="50" width="50" />&nbsp;</a>
+<a href="https://codeforces.com/profile/HackerAdwait" target="blank"><img align="center" src="Icons/codeforces-blue.png" title="Codeforces" alt="Codeforces profile" height="50" width="50" />&nbsp;</a>
 <hr/>
 
 <!--   Leetcode and medium stats -->
