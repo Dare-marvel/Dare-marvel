@@ -16,17 +16,17 @@
 
 <!--   my-ticker -->
 <p align="center" >
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;+Welcome+to+My+Profile!;2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Python+enthusiast" alt="Adwait's tinkering text" /></a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;+Welcome+to+My+Profile!;2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Python+enthusiast" alt="Adwait's tickering text" /></a>
 </p>
     
 <!--   Profile views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dare-marvel&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="dare-marvel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dare-marvel&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" /> </p>
 
 <!--  About me -->
 <hr/>
-<h1 align="center" > About Me <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px' ></h1>
+<h1 align="center" > About Me <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" alt="eat-sleep-code-repeat" width = 100px height='100px' ></h1>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="side picture" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
 - 🔭 I’m currently working on Github projects, blogs etc...
@@ -44,13 +44,13 @@
 <!--   My Trophies -->  
 <hr/>
 <h2 align="center" >My Trophies</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's Profile trophies" /></a> </p>      
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's trophies" /></a> </p>      
 </p>
 
 
 <!--   Skills -->  
 <hr/>
-<h1 align="center" > Skills <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h1>
+<h1 align="center" > Skills <img align="center" alt="tag-gif" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h1>
   
 |Domain | Techstack|
 | ------------- | ------------- |
@@ -68,12 +68,12 @@
 <hr/>
 
 <!--   Social-media-presence -->  
-<h2 align="center" > Connect with me <img align="center" src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/adwait-p-04a4a222a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/https://twitter.com/puraoadwait'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adwait.purao'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/dare-marvel'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="adwait.purao.1" width="32px" />&nbsp;</a>
+<h2 align="center" > Connect with me <img align="center" alt="handshake-gif"  src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/adwait-p-04a4a222a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" />&nbsp;</a> 
+<a href = 'https://www.twitter.com/https://twitter.com/puraoadwait'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter" title="Twitter"/>&nbsp;</a> 
+<a href = 'https://medium.com/@adwait.purao'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium" title="Medium"/>&nbsp;</a> 
+<a href = 'https://www.github.com/dare-marvel'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" title="Github" />&nbsp;</a> 
+<a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="facebook" width="32px" />&nbsp;</a>
 <a href="https://instagram.com/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao"  width="32px" />&nbsp;</a>
 <hr/>
 
