@@ -69,8 +69,8 @@
 
 <!--   Social-media-presence -->  
 <h2 align="center" > Connect with me <img align="center" alt="handshake-gif"  src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/adwait-p-04a4a222a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" />&nbsp;</a> 
-<a href = 'https://www.twitter.com/https://twitter.com/puraoadwait'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter" title="Twitter"/>&nbsp;</a> 
+<a href = 'https://linkedin.com/in/adwait-p-04a4a222a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" />&nbsp;</a> 
+<a href = 'https://twitter.com/puraoadwait'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter" title="Twitter"/>&nbsp;</a> 
 <a href = 'https://medium.com/@adwait.purao'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium" title="Medium"/>&nbsp;</a> 
 <a href = 'https://www.github.com/dare-marvel'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" title="Github" />&nbsp;</a> 
 <a href="https://fb.com/adwait.purao.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="facebook" width="32px" />&nbsp;</a>
