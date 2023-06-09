@@ -74,7 +74,7 @@
 <a href = 'https://medium.com/@adwait.purao' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium" title="Medium"/>&nbsp;</a> 
 <a href = 'https://www.github.com/dare-marvel' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" title="Github" />&nbsp;</a> 
 <a href="https://fb.com/adwait.purao.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="facebook" width="32px" />&nbsp;</a>
-<a href="https://instagram.com/adwaitpurao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao"  width="32px" />&nbsp;</a>
+<a href="https://www.instagram.com/adwaitpurao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao"  width="32px" />&nbsp;</a>
 <hr/>
 
 <!--   Coding Platforms on which I'm present --> 
