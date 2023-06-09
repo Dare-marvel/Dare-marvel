@@ -96,8 +96,12 @@
 <!--   GitHub stats graph -->
 <hr/>   
 <h1 align="center" > My Github Stats 📈: </h1>
-
-[![Adwait's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dare-marvel&theme=dracula)](https://github.com/dare-marvel/github-readme-activity-graph)    
+    
+<a href="https://github.com/dare-marvel/github-readme-activity-graph" ><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dare-marvel&theme=dracula"
+                 alt="Adwait's github activity graph" /></a>
+ 
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" ><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dare-marvel&theme=radical"
+                 alt="Profile summary" /></a>
     
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Adwait's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dare-marvel&theme=radical&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
