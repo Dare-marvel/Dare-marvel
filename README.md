@@ -76,6 +76,7 @@
 <a href="https://fb.com/adwait.purao.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="facebook" width="32px" />&nbsp;</a>
 <a href="https://instagram.com/adwaitpurao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao"  width="32px" />&nbsp;</a>
 <a href="https://www.instagram.com/__artistryunveiled__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/main/Icons/Art-Page-Icon.png" title="My Art page on instagram" alt="Art Page"  width="32px" />&nbsp;</a>
+<a href="https://dev.to/daremarvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV Profile" width="32px" /></a>
 <hr/>
 
 <!--   Coding Platforms on which I'm present --> 
