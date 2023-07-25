@@ -101,15 +101,17 @@
     
 <a href="https://github.com/dare-marvel/github-readme-activity-graph" ><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dare-marvel&theme=dracula"
                  alt="Adwait's github activity graph" /></a>
- 
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" ><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dare-marvel&theme=radical"
-                 alt="Profile summary" /></a>
     
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Adwait's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dare-marvel&theme=radical&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
   
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats"/>
-    
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dare-marvel&theme=radical" width = "65%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dare-marvel&theme=radical&utcOffset=4" width = "31.5%">
+</p>
+
 <hr>
 <!--   Programming Humor and Real time moon -->     
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'> along with the Moon Today</h2>
