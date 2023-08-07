@@ -122,7 +122,9 @@
     
 <!--   Snake eating contributions -->      
 ## Watch the snake eat my contributions  
-![Snake animation](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/dare-marvel/dare-marvel/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
