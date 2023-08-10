@@ -56,12 +56,12 @@
 | ------------- | ------------- |
 | Languages  | [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)  |
 | Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  |
-| Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,django,flask)](https://skillicons.dev)  |
+| Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,django,flask,express)](https://skillicons.dev)  |
 | Data Science  | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height=45px />  <img src="Icons/Matplotlib_icon.svg" height=45px />|
 | Artificial Intelligence  | <img src="Icons/Scikit_learn_logo_small.svg" height=45px />  |
 | Operating Systems | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height=45px /> |
 | Video Editiing | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> |
-| Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev) |
+| Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev) |
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
 | Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  <img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height=45px /> | 
 | IDE's | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height=45px /> |
