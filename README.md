@@ -128,7 +128,7 @@
   <img alt="github-snake" src="github-snake.svg" /> 
     </picture> -->
 
-![snake gif](https://github.com/Dare-marvel/Dare-marvel/blob/output/ocean.gif)
+![snake gif](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-snake-dark.svg)
 
 </div>
 
