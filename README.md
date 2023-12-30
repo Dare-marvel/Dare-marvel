@@ -133,7 +133,7 @@
 
 ## Watch my 2023 Skyline
 
-<script src="https://embed.github.com/view/3d/Dare-marvel/Dare-marvel/blob/main/Images%26GIFs/Dare-marvel-2023.stl"></script>
+<script src="https://embed.github.com/view/3d/Dare-marvel/Dare-marvel/main/Images%26GIFs/Dare-marvel-2023.stl"></script>
 
 </div>
 
