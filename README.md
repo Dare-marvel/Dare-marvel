@@ -131,9 +131,6 @@
 ![snake gif](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-snake-dark.svg)
 
 
-## Watch my 2023 Skyline
-
-<script src="https://embed.github.com/view/3d/Dare-marvel/Dare-marvel/main/Images%26GIFs/Dare-marvel-2023.stl"></script>
 
 </div>
 
