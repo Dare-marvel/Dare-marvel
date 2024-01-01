@@ -104,10 +104,10 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Adwait's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dare-marvel&theme=radical&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align="center">  
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats" width = "40%"/>
-<img  src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/bc7de80c40f3cc90546553eaff9d50e8d5a67913/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements" width = "40%"/>
-</p>
+ <!-- <p align="center">  -->
+| <img  src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats" width = "45%"/> | <img  src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/bc7de80c40f3cc90546553eaff9d50e8d5a67913/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements" width = "45%"/> |
+| ------------- | ------------- |
+<!-- </p> -->
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dare-marvel&theme=radical" width = "65%" />
