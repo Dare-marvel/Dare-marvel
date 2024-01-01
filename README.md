@@ -112,7 +112,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dare-marvel&theme=radical&utcOffset=4" width = "31.5%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/7436cc676d3e044d962cc357f210263ea8836a52/metrics.plugin.isocalendar.fullyear.svg" />
+| <img src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/7436cc676d3e044d962cc357f210263ea8836a52/metrics.plugin.isocalendar.fullyear.svg" />  | <img src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/b688a97714b166713f9b758550e28d18eb3abc29/metrics.plugin.followup.indepth.svg" /> |
+| ------------- | ------------- |
+
 
 <hr>
 <!--   Programming Humor and Real time moon -->     
