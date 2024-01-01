@@ -105,13 +105,13 @@
 | ------------- | ------------- |
 
 <p align="center">  
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats"/>
-<img  src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/bc7de80c40f3cc90546553eaff9d50e8d5a67913/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=Dare-marvel&theme=radical&hide_border=true" alt="Adwait Purao readme streak stats" width = "40%"/>
+<img  src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/bc7de80c40f3cc90546553eaff9d50e8d5a67913/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements" width = "40%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dare-marvel&theme=radical" width = "65%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dare-marvel&theme=radical&utcOffset=4" width = "31.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dare-marvel&theme=radical" width = "65%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dare-marvel&theme=radical&utcOffset=4" width = "31.5%" />
 </p>
 
 <hr>
