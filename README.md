@@ -85,7 +85,7 @@
 <a href="https://www.leetcode.com/legendaryphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="legendaryphoenix" height="40" width="40" />&nbsp;</a>
 <a href="https://auth.geeksforgeeks.org/user/adwaitpurao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" title="GeeksForGeeks" alt="gfg profile" height="40" width="40" />&nbsp;</a>
 <a href="https://codeforces.com/profile/HackerAdwait" target="blank"><img align="center" src="Icons/codeforces-blue.png" title="Codeforces" alt="Codeforces profile" height="50" width="50" />&nbsp;</a>
-<a href="https://www.codingninjas.com/studio/profile/CodePhoenix" target="blank"><img align="center" src="https://yt3.googleusercontent.com/Qak2Unp_tDxiEMmSwOj8oSUZLMytk7fcWSZA5UL2eWaxBOgUCnyvEQorbcwnVQderfZQLrko=s900-c-k-c0x00ffffff-no-rj" title="Coding Ninjas" alt="Coding Ninjas profile" height="50" width="50" />&nbsp;</a>
+<a href="https://www.codingninjas.com/studio/profile/CodePhoenix" target="blank"><img align="center" src="Icons/coding_ninjas.jpg" title="Coding Ninjas" alt="Coding Ninjas profile" height="50" />&nbsp;</a>
 
 <hr/>
 
