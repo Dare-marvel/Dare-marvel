@@ -59,7 +59,7 @@
 | Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,django,flask,express,materialui,tailwind)](https://skillicons.dev)  |
 | Data Science  | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height=45px />  <img src="Icons/Matplotlib_icon.svg" height=45px />|
 | Artificial Intelligence  | <img src="Icons/Scikit_learn_logo_small.svg" height=45px />  |
-| Operating Systems | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height=45px /> |
+| Operating Systems |  [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali,linux)](https://skillicons.dev)  |
 | Video Editiing | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> |
 | Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev) |
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
