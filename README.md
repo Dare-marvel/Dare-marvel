@@ -1,4 +1,4 @@
-<!--   Welcome-img 57 day streak -->
+<!--   Welcome-img -->
 ![](Images&GIFs/PageStart.svg)
 
 <!--   my-icons -->
