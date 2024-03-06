@@ -66,7 +66,7 @@
 | Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  <img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height=45px /> | 
 | IDE's | [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,vscode,idea,webstorm)](https://skillicons.dev)  |
 | Hosting  | [![My Skills](https://skillicons.dev/icons?i=docker,netlify)](https://skillicons.dev)  |
-| Extra | [![My Skills](https://skillicons.dev/icons?i=latex,autocad,blender)](https://skillicons.dev) |
+| Extra | [![My Skills](https://skillicons.dev/icons?i=latex,autocad,blender,md)](https://skillicons.dev) |
 <hr/>
 
 <!--   Social-media-presence -->  
