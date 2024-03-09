@@ -1,4 +1,4 @@
-<!--   Welcome-img 63 -->
+<!--   Welcome-img -->
 ![](Images&GIFs/PageStart.svg)
 
 <!--   my-icons -->
