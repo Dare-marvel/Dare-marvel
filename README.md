@@ -61,7 +61,7 @@
 | Artificial Intelligence  | <img src="Icons/Scikit_learn_logo_small.svg" height=45px />  |
 | Operating Systems |  [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali,linux)](https://skillicons.dev)  |
 | Video Editiing | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> |
-| Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev) |
+| Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite)](https://skillicons.dev) |
 | Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
 | Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  <img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height=45px /> | 
 | IDE's | [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,vscode,idea,webstorm)](https://skillicons.dev)  |
