@@ -54,9 +54,9 @@
   
 |Domain | Techstack|
 | ------------- | ------------- |
-| Languages  | [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)  |
-| Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  |
-| Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,django,flask,express,materialui,tailwind)](https://skillicons.dev)  |
+| Languages  | [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js)](https://skillicons.dev)  |
+| Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind)](https://skillicons.dev)  |
+| Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,flask,express,threejs)](https://skillicons.dev)  |
 | Data Science  | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height=45px />  <img src="Icons/Matplotlib_icon.svg" height=45px />|
 | Artificial Intelligence  | <img src="Icons/Scikit_learn_logo_small.svg" height=45px />  |
 | Operating Systems |  [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali,linux)](https://skillicons.dev)  |
