@@ -52,21 +52,77 @@
 <hr/>
 <h1 align="center" > Skills <img align="center" alt="tag-gif" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h1>
   
-|Domain | Techstack|
-| ------------- | ------------- |
-| Languages  | [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,solidity)](https://skillicons.dev)  |
-| Front-End  | [![My Skills](https://skillicons.dev/icons?i=html,css,vite,bootstrap,materialui,tailwind)](https://skillicons.dev)  |
-| Libraries  | [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,flask,express,threejs)](https://skillicons.dev)  |
-| Data Science  | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height=45px />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height=45px />  <img src="Icons/Matplotlib_icon.svg" height=45px />|
-| Artificial Intelligence  | <img src="Icons/Scikit_learn_logo_small.svg" height=45px />  |
-| Operating Systems |  [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali,linux)](https://skillicons.dev)  |
-| Video Editiing | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> |
-| Databases  | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite)](https://skillicons.dev) |
-| Version control  | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)  |
-| Presentation | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height=45px /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height=45px />  <img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height=45px /> | 
-| IDE's | [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,vscode,idea,webstorm,sublime)](https://skillicons.dev)  |
-| Hosting  | [![My Skills](https://skillicons.dev/icons?i=docker,netlify)](https://skillicons.dev)  |
-| Extra | [![My Skills](https://skillicons.dev/icons?i=latex,autocad,blender,md)](https://skillicons.dev) |
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Techstack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Languages</td>
+      <td><a href="https://skillicons.dev/icons?i=c,cpp,python,java,js,solidity"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,solidity" alt="My Skills"/></a></td>
+    </tr>
+    <tr>
+      <td>Front-End</td>
+      <td><a href="https://skillicons.dev/icons?i=html,css,vite,bootstrap,materialui,tailwind"><img src="https://skillicons.dev/icons?i=html,css,vite,bootstrap,materialui,tailwind" alt="My Skills"/></a></td>
+    </tr>
+    <tr>
+      <td>Libraries</td>
+      <td><a href="https://skillicons.dev/icons?i=react,nodejs,django,flask,express,threejs"><img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,express,threejs" alt="My Skills"/></a></td>
+    </tr>
+    <tr>
+      <td>Data Science</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="45px"/><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="45px"/><img src="Icons/Matplotlib_icon.svg" height="45px"/></td>
+    </tr>
+    <tr>
+      <td>Artificial Intelligence</td>
+      <td><img src="Icons/Scikit_learn_logo_small.svg" height="45px"/></td>
+    </tr>
+    <tr>
+      <td>Operating Systems</td>
+      <td><a href="https://skillicons.dev/icons?i=windows,ubuntu,kali,linux"><img src="https://skillicons.dev/icons?i=windows,ubuntu,kali,linux" alt="My Skills"/></a></td>
+    </tr>
+    <tr>
+      <td>API Testing</td>
+      <td><img width="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></td>
+    </tr>
+    <tr>
+      <td>Databases</td>
+      <td><a href="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite"><img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite" alt="My Skills"/></a></td>
+    </tr>
+    <tr>
+        <td>Big Data Analysis
+		<td><img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/>
+        <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" alt="Hive" title="Hive"/>
+        <img width="45" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></td>
+	</tr>
+    <tr>
+      <td>Version control</td>
+      <td><a href="https://skillicons.dev/icons?i=git,github"><img src="https://skillicons.dev/icons?i=git,github" alt="My Skills"/></a></td>
+    </tr>
+    <tr>
+      <td>Creatives and Web Design</td>
+      <td><img width="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
+          <img width="45" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/><img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height="45px"/></td>
+    </tr>
+    <tr>
+      <td>IDE's</td>
+      <td><a href="https://skillicons.dev/icons?i=pycharm,anaconda,vscode,idea,webstorm,sublime"><img src="https://skillicons.dev/icons?i=pycharm,anaconda,vscode,idea,webstorm,sublime" alt="My Skills"/></a></td>
+    </tr>
+    <tr>
+      <td>Hosting</td>
+      <td><a href="https://skillicons.dev/icons?i=docker,netlify"><img src="https://skillicons.dev/icons?i=docker,netlify" alt="My Skills"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub Pages" title="GitHub"/></a></td>
+    </tr>
+    <tr>
+      <td>Extra</td>
+      <td><a href="https://skillicons.dev/icons?i=latex,autocad,blender,md"><img src="https://skillicons.dev/icons?i=latex,autocad,blender,md" alt="My Skills"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
 <hr/>
 
 <!--   Social-media-presence -->  
