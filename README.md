@@ -105,7 +105,9 @@
     <tr>
       <td>Creatives and Web Design</td>
       <td><img width="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
-          <img width="45" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/><img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height="45px"/></td>
+          <img width="45" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/><img src="https://github.com/Dare-marvel/Dare-marvel/blob/main/Icons/office.png" height="45px"/>
+	<img width="45" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d5e9646a-002e-46a5-be7e-13af45d191cd.png" alt="ClipChamp" title="ClipChamp"/>
+      </td>
     </tr>
     <tr>
       <td>IDE's</td>
