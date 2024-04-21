@@ -65,11 +65,11 @@
     </tr>
     <tr>
       <td>Front-End</td>
-      <td><a href="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind"><img src="https://skillicons.dev/icons?i=html,css,vite,bootstrap,materialui,tailwind" alt="My Skills"/></a></td>
+      <td><a href="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind"><img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind" alt="My Skills"/></a></td>
     </tr>
     <tr>
       <td>Backend</td>
-      <td><a href="https://skillicons.dev/icons?i=nodejs,django,flask,express"><img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,express,threejs" alt="My Skills"/></a></td>
+      <td><a href="https://skillicons.dev/icons?i=nodejs,django,flask,express"><img src="https://skillicons.dev/icons?i=nodejs,django,flask,express" alt="My Skills"/></a></td>
     </tr>
     <tr>
       <td>Data Science</td>
