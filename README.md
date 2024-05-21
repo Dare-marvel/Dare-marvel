@@ -15,7 +15,7 @@
 
 <!--   my-ticker -->
 <p align="center" >
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;+Welcome+to+My+Profile!;2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Python+enthusiast" alt="Adwait's tickering text" /></a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;+Welcome+to+My+Profile!;3+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Python+enthusiast" alt="Adwait's tickering text" /></a>
 </p>
     
 <!--   Profile views -->
