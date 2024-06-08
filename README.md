@@ -171,7 +171,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Adwait's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dare-marvel&theme=radical&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dare-marvel&theme=radical" alt="GitHub Streak" /></a> | <img  src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/f6a9e97a30df440850deeed7107893055ffcfd57/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements" /> |
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dare-marvel&theme=radical" alt="GitHub Streak" /></a> | <img  src="/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements" /> |
 | ------------- | ------------- | 
 
 <p align="center">
@@ -183,10 +183,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/7436cc676d3e044d962cc357f210263ea8836a52/metrics.plugin.isocalendar.fullyear.svg" />
+      <img src="/metrics.plugin.isocalendar.fullyear.svg" />
     </td>
     <td>
-     <img src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/b688a97714b166713f9b758550e28d18eb3abc29/metrics.plugin.followup.indepth.svg" />
+     <img src="/metrics.plugin.followup.indepth.svg" />
     </td>
   </tr>
 </table>
