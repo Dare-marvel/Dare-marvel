@@ -171,7 +171,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Adwait's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dare-marvel&theme=radical&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dare-marvel&theme=radical" alt="GitHub Streak" /></a> | <img  src="https://metrics.lecoq.io/dare-marvel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" alt="Adwait Purao achievements" /> |
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dare-marvel&theme=radical" alt="GitHub Streak" /></a> | <img  src="https://raw.githubusercontent.com/Dare-marvel/Dare-marvel/f6a9e97a30df440850deeed7107893055ffcfd57/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements" /> |
 | ------------- | ------------- | 
 
 <p align="center">
