@@ -38,8 +38,8 @@
 
     </td>
     <td valign="top" width="50%">
-    
-<img src="https://metrics.lecoq.io/dare-marvel?template=classic&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&fortune=false&config.timezone=Asia%2FCalcutta" alt="Adwait's Introduction" />
+
+<img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.indepth=true&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&fortune=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" alt="Adwait's Introduction" />
 
   </td>
   </tr>
@@ -179,12 +179,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dare-marvel&theme=radical&utcOffset=4" width = "31.5%" />
 </p>
 
-![Metrics]()
 
 <table>
   <tr>
     <td>
-      <img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta" />
+      <img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" />
     </td>
     <td>
       <img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FCalcutta" />
