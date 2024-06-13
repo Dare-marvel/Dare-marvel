@@ -39,7 +39,9 @@
     </td>
     <td valign="top" width="50%">
 
-<img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.indepth=true&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&fortune=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" alt="Adwait's Introduction" />
+<!--  <img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.indepth=true&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&fortune=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" alt="Adwait's Introduction" /> -->
+
+<img src="/github-metrics.svg" alt="Adwait's Introduction" />
 
   </td>
   </tr>
