@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td>Artificial Intelligence</td>
-      <td><img src="Icons/Scikit_learn_logo_small.svg" height="45px"/></td>
+      <td><a href="https://skillicons.dev/icons?i=sklearn"><img src="https://skillicons.dev/icons?i=sklearn" alt="Artificial Intelligence"/></a></td>
     </tr>
     <tr>
       <td>Operating Systems</td>
