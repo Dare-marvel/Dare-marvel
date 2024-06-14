@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>Front-End</td>
-      <td><a href="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux"><img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind" alt="My Skills"/></a></td>
+      <td><a href="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux"><img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux" alt="My Skills"/></a></td>
     </tr>
     <tr>
       <td>Backend</td>
