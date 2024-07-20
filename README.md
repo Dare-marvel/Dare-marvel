@@ -73,7 +73,15 @@
     </tr>
     <tr>
       <td>Front-End</td>
-      <td><a href="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux"><img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux" alt="My Skills"/></a></td>
+      <td><a href="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux,jquery"><img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux,jquery" alt="My Skills"/></a>
+<img width="45" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="Chakra UI" title="Chakra UI"/>      
+</td>
+    </tr>
+    <tr>
+      <td>UI Frameworks</td>
+      <td><a href="https://skillicons.dev/icons?i=threejs,vite,bootstrap,materialui,tailwind,redux,jquery"><img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,bootstrap,materialui,tailwind,redux,jquery" alt="My Skills"/></a>
+<img width="45" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="Chakra UI" title="Chakra UI"/>      
+</td>
     </tr>
     <tr>
       <td>Backend</td>
