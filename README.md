@@ -77,7 +77,12 @@
     </tr>
     <tr>
       <td>Backend</td>
-      <td><a href="https://skillicons.dev/icons?i=nodejs,django,flask,express"><img src="https://skillicons.dev/icons?i=nodejs,django,flask,express" alt="My Skills"/></a></td>
+      <td><img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
+      <img width="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+      <img width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="45" alt="Flask" title="Flask" >
+      <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
+</td>
     </tr>
     <tr>
       <td>Data Science</td>
