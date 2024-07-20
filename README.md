@@ -120,11 +120,13 @@
         <td>Big Data Analysis
 		<td><img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/>
         <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" alt="Hive" title="Hive"/>
-        <img width="45" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></td>
+        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-dark.svg" width="45" alt="Apache Spark" title="Apache Spark" >  </td>
 	</tr>
     <tr>
-      <td>Version control</td>
-      <td><a href="https://skillicons.dev/icons?i=git,github"><img src="https://skillicons.dev/icons?i=git,github" alt="My Skills"/></a></td>
+      <td>Version control & CI/CD</td>
+      <td><a href="https://skillicons.dev/icons?i=git,github"><img src="https://skillicons.dev/icons?i=git,github" alt="Git & Github"/></a>
+	<img src="https://github.com/onemarc/tech-icons/blob/main/icons/githubactions-dark.svg" width="45" alt="Github Actions" title="Github Actions" >    
+</td>
     </tr>
     <tr>
       <td>Creatives and Web Design</td>
