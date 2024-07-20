@@ -74,7 +74,10 @@
     <tr>
       <td>Front-End</td>
       <td><a href="https://skillicons.dev/icons?i=html,css,react"><img src="https://skillicons.dev/icons?i=html,css,react" alt="My Skills"/></a>
-	<img width="45" src="./Images&GIFs/preact.png" alt="Preact" title="Preact"/>	 
+	<img width="50" src="./Icons/preact.png" alt="Preact" title="Preact"/>
+ 	<img width="50" src="./Icons/ojet.jpg" alt="OJET" title="OJET"/>
+  	<img width="50" src="Icons/knockoutjs.png" alt="KnockoutJs" title="KnockoutJs"/>
+   	<img width="50" src="./Icons/requirejs.png" alt="RequireJs" title="RequireJs"/>
 </td>
     </tr>
     <tr>
