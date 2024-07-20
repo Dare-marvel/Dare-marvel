@@ -78,7 +78,7 @@
  	<img width="50" src="./Icons/ojet.png" alt="OJET" title="OJET"/>
   	<img width="50" src="Icons/knockoutjs.png" alt="KnockoutJs" title="KnockoutJs"/>
    	<img width="50" src="./Icons/requirejs.png" alt="RequireJs" title="RequireJs"/>
-	<img width="50" src="./Icons/requirejs.png" alt="GrapeJs" title="GrapeJs"/>
+	<img width="50" src="./Icons/grapejs.png" alt="GrapeJs" title="GrapeJs"/>
 </td>
     </tr>
     <tr>
