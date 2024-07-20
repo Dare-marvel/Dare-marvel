@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>Front-End</td>
-      <td><a href="https://skillicons.dev/icons?i=html,css,react,jquery"><img src="https://skillicons.dev/icons?i=html,css,react,jquery" alt="My Skills"/></a>
+      <td><a href="https://skillicons.dev/icons?i=html,css,react"><img src="https://skillicons.dev/icons?i=html,css,react" alt="My Skills"/></a>
 	<img width="45" src="./Images&GIFs/preact.png" alt="Preact" title="Preact"/>	 
 </td>
     </tr>
