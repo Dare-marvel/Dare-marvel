@@ -178,7 +178,7 @@
 <!--   Leetcode and medium stats -->
 |Leetcode Stats | Medium Stats |
 | ------------- | ------------- |
-| <a href = 'https://github.com/legendaryphoenix/leetcode-stats'> <img  align= 'left' src="https://leetcode-stats-six.vercel.app/?username=legendaryphoenix&theme=dark"/></a> | <a href = 'https://medium.com/@adwait.purao'> <img  align= 'right' src="https://github-readme-medium.vercel.app/?username=adwait.purao"/></a> |
+|![LeetCode Stats](https://leetcard.jacoblin.cool/legendaryphoenix?theme=wtf&font=Gafata&ext=activity) | <a href = 'https://medium.com/@adwait.purao'> <img  align= 'right' src="https://github-readme-medium.vercel.app/?username=adwait.purao"/></a> |
 
 <div>
 
