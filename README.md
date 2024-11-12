@@ -120,7 +120,10 @@
         <td>Big Data Analysis
 		<td><img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/>
         <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" alt="Hive" title="Hive"/>
-        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-dark.svg" width="45" alt="Apache Spark" title="Apache Spark" >  </td>
+        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-dark.svg" width="45" alt="Apache Spark" title="Apache Spark" > 
+			<img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" width="45" alt="Power bi" title="Power bi" > 
+			<img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-dark.svg" width="45" alt="Tableau" title="Tableau" >
+		</td>
 	</tr>
     <tr>
       <td>Version control & CI/CD</td>
