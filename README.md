@@ -94,6 +94,7 @@
       <img width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="45" alt="Flask" title="Flask" >
       <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
+      <img width="45" src="./Icons/asp-dotnet.png" alt="asp-dotnet" title="asp-dotnet"/>
 </td>
     </tr>
     <tr>
@@ -114,7 +115,9 @@
     </tr>
     <tr>
       <td>Databases</td>
-      <td><a href="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite"><img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite" alt="My Skills"/></a></td>
+      <td><a href="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite"><img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite" alt="My Skills"/></a>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/>
+      </td>
     </tr>
     <tr>
         <td>Big Data Analysis
