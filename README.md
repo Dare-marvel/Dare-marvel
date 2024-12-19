@@ -69,7 +69,7 @@
   <tbody>
     <tr>
       <td>Languages</td>
-      <td><a href="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,solidity"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,solidity" alt="My Skills"/></a></td>
+      <td><a href="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,solidity"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,solidity" alt="My Skills"/></a></td>
     </tr>
     <tr>
       <td>Front-End</td>
