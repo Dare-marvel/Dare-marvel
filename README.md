@@ -143,7 +143,7 @@
     </tr>
     <tr>
       <td>IDE's</td>
-      <td><a href="https://skillicons.dev/icons?i=pycharm,anaconda,vscode,idea,webstorm,sublime"><img src="https://skillicons.dev/icons?i=pycharm,anaconda,vscode,idea,webstorm,sublime" alt="My Skills"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></a></td>
+      <td><a href="https://skillicons.dev/icons?i=pycharm,anaconda,vscode,visualstudio,idea,webstorm,sublime"><img src="https://skillicons.dev/icons?i=pycharm,anaconda,vscode,visualstudio,idea,webstorm,sublime" alt="My Skills"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></a></td>
     </tr>
     <tr>
       <td>Hosting</td>
