@@ -117,6 +117,7 @@
       <td>Databases</td>
       <td><a href="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite"><img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite" alt="My Skills"/></a>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/>
+	<img width="50" src="./Icons/toad.png" alt="Toad" title="Toad"/>
       </td>
     </tr>
     <tr>
