@@ -92,7 +92,7 @@
       <td><img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
       <img width="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
       <img width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="45" alt="Flask" title="Flask" >
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="45" alt="Flask" title="Flask" >
       <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
       <img width="45" src="./Icons/asp-dotnet.png" alt="asp-dotnet" title="asp-dotnet"/>
 </td>
@@ -125,7 +125,7 @@
         <td>Big Data Analysis
 		<td><img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/>
         <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" alt="Hive" title="Hive"/>
-        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachespark-dark.svg" width="45" alt="Apache Spark" title="Apache Spark" > 
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" width="45" alt="Apache Spark" title="Apache Spark" > 
 			<img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" width="45" alt="Power bi" title="Power bi" > 
 			<img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-dark.svg" width="45" alt="Tableau" title="Tableau" >
 		</td>
