@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <td>Data Science</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="45px"/><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="45px"/><img src="Icons/Matplotlib_icon.svg" height="45px"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" height="45px"/><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="45px"/><img src="Icons/Matplotlib_icon.svg" height="45px"/></td>
     </tr>
     <tr>
       <td>Artificial Intelligence</td>
