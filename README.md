@@ -170,6 +170,7 @@
 <a href="https://fb.com/adwait.purao.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Facebook" alt="facebook" width="32px" />&nbsp;</a>
 <a href="https://instagram.com/adwaitpurao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="adwaitpurao"  width="32px" />&nbsp;</a>
 <a href="https://dev.to/daremarvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" title="My DEV profile" alt="DEV Profile" width="32px" /></a>
+<a href="https://www.teepublic.com/user/trustd" target="blank"><img align="center" src="Icons/teepublic.png" title="Teepublic Profile" alt="Teepublic Profile" width="32px" /></a>
 <hr/>
 
 <!--   Coding Platforms on which I'm present --> 
